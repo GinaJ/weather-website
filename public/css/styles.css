@@ -40,7 +40,9 @@ header a {
 .portrait {
     width: 250px;
 }
-
+.logo {
+    width: 30px;
+}
 input {
     border: 1px solid #cccccc;
     padding: 8px;
